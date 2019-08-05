@@ -1,0 +1,45 @@
+{
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.2.0",
+    "firebase": "^6.3.3",
+    "google-map-react": "^1.1.4",
+    "lodash": "^4.17.14",
+    "material-icons-react": "^1.0.4",
+    "moment": "^2.24.0",
+    "react": "^16.8.6",
+    "react-big-calendar": "^0.22.0",
+    "react-dom": "^16.8.6",
+    "react-google-maps": "^9.4.5",
+    "react-items-carousel": "^2.3.6",
+    "react-modal": "^3.8.2",
+    "react-responsive-carousel": "^3.1.49",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-toggle-switch": "^3.0.4",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
